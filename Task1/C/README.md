@@ -1,2 +1,1 @@
-# Project_Euler
-My solutions to Project Euler in various languages
+Solution to Task 1 in C
