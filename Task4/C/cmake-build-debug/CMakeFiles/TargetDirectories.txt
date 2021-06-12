@@ -1,0 +1,3 @@
+C:/Users/Jennifer Chan/Documents/Project_Euler/Task4/C/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jennifer Chan/Documents/Project_Euler/Task4/C/cmake-build-debug/CMakeFiles/Task4.dir
+C:/Users/Jennifer Chan/Documents/Project_Euler/Task4/C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
