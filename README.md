@@ -8,3 +8,4 @@ Planned languages are:
 - Java
 - Python
 - C++
+- Go
