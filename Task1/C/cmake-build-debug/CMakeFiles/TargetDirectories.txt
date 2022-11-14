@@ -1,3 +1,0 @@
-N:/Project_Euler/Task1/C/cmake-build-debug/CMakeFiles/edit_cache.dir
-N:/Project_Euler/Task1/C/cmake-build-debug/CMakeFiles/Task_1.dir
-N:/Project_Euler/Task1/C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
